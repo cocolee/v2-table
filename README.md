@@ -1,5 +1,6 @@
 [![build pass](https://api.travis-ci.org/dwqs/v2-table.svg?branch=master)](https://travis-ci.org/dwqs/v2-table?branch=master) ![npm-version](https://img.shields.io/npm/v/v2-table.svg) ![license](https://img.shields.io/npm/l/v2-table.svg)
 
+#coco version
 [中文 README](https://github.com/dwqs/v2-table/blob/master/README_CN.md)
 # v2-table
 A simple table component based Vue 2.x.
